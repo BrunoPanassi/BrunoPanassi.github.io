@@ -45,7 +45,7 @@ function EndVideo()
 
     if (RedPillClick)
     {
-        window.location.replace('main')
+        window.location.replace('/main')
     }
 
     if (BluePillClick)
